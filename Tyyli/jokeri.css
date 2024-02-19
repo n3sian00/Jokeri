@@ -1,0 +1,41 @@
+body, h1, h2, h3, p, div, table, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px; 
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: darkgray;
+}
+
+
+h3 {
+    margin-top: 20px; 
+}
+
+button {
+    padding: 10px;
+    background-color: darkslategray;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px; 
+}
+
+script {
+    display: block;
+    margin-top: 20px; 
+}
